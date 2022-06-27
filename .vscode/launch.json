@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\FirstSteps\\average.js"
+            "program": "${workspaceFolder}\\FirstSteps\\debugs.js"
         }
     ]
 }
