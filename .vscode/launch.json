@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\FirstSteps\\debugs.js"
+            "program": "${workspaceFolder}\\Types\\exercicio_convertDolar.js"
         }
     ]
 }
