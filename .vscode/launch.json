@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Types\\data1.js"
+            "program": "${workspaceFolder}\\Operators\\op_equal.js"
         }
     ]
 }
