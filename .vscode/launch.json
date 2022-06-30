@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\SelectionStructure\\if_Ternario.js"
+            "program": "${workspaceFolder}\\estruturaRepeticao\\while.js"
         }
     ]
 }
