@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\SelectionStructure\\switch.js"
+            "program": "${workspaceFolder}\\SelectionStructure\\if_Ternario.js"
         }
     ]
 }

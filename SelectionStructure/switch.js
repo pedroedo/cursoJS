@@ -4,7 +4,7 @@
 const priority = 4; //declarada a variavel priority com valor de 1
 
 switch(priority){ //dentro do parenteses do switch, deve colocar de quem vai fazer a checagem. No caso, a variavel declarada.
-    case 1: //o case é como se fosse o if. Ela tem valor de SE.
+    case 1: //o case é como se fosse o if. Ela tem valor de SE. foi usado o exemplo 1, mas em case varia de acordo com a condição.
         console.log("ALTA");
         break; //deve ser usado um break ao final de cada case.
     case 2:
