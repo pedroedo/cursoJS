@@ -7,9 +7,15 @@
 const prompt = require("prompt-sync")();
 
 const num = Number(prompt("Tabuada do... "));
-let n = 1;
+// let n = 1;
 
-while(n <= 10){
+// while(n <= 10){
+//     console.log(num + " x " + n + " = " + (num * n));
+//     n++;
+// }
+
+for(let n = 1; n <= 10; n++){
     console.log(num + " x " + n + " = " + (num * n));
-    n++;
 }
+
+//é possível fazer tanto com while quanto com for.

@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\estruturaRepeticao\\while.js"
+            "program": "${workspaceFolder}\\estruturaRepeticao\\break.js"
         }
     ]
 }
